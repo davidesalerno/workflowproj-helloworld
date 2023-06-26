@@ -2,7 +2,7 @@ module github.com/davidesalerno/workflowproj-helloworld
 
 go 1.19
 
-require github.com/kiegroup/kogito-serverless-operator/workflowproj v0.0.0-20230622134716-b5256ed051b9
+require github.com/kiegroup/kogito-serverless-operator/workflowproj v1.40.0
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
